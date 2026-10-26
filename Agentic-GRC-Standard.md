@@ -155,4 +155,6 @@ There is no Level 4. Un-audited, unbounded autonomy is not a maturity stage; it 
 
 ---
 
-*This standard operationalises the [Agentic GRC manifesto](/). Role-specific, organisation-specific detail (who chairs what forum, what cadence a committee meets on) is deliberately absent: that belongs in the deploying organisation's own governance of the agent, not in the agent's own instructions. Nothing here is legal advice; obligations vary by jurisdiction and contract.*
+*This standard operationalises the [Agentic GRC manifesto](https://agenticgrc.io/). Role-specific, organisation-specific detail (who chairs what forum, what cadence a committee meets on) is deliberately absent: that belongs in the deploying organisation's own governance of the agent, not in the agent's own instructions. Nothing here is legal advice; obligations vary by jurisdiction and contract.*
+
+*Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE.md](./LICENSE.md).*
